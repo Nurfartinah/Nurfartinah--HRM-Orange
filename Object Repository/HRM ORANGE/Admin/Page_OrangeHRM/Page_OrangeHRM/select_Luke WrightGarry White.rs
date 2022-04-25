@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Luke WrightGarry White</name>
+   <tag></tag>
+   <elementGuidId>f1458227-b009-493f-8eba-1ea6734a5820</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='workShift_assignedEmp']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#workShift_assignedEmp</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>b31a062b-5911-46aa-b3f9-53174c06313a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>workShift[assignedEmp][]</value>
+      <webElementGuid>bd60e68b-a4d6-4bda-a2c5-41a703621eb7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectMany</value>
+      <webElementGuid>76a8a220-896f-4366-872b-f7ab03e0b38e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>10</value>
+      <webElementGuid>345020b7-94cb-48ba-892e-1bdc46217b0e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>multiple</name>
+      <type>Main</type>
+      <value>multiple</value>
+      <webElementGuid>387b3a41-35d1-4d75-88a9-cbe532843aab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>workShift_assignedEmp</value>
+      <webElementGuid>b322984c-efea-4c4e-953d-d06c7a1d515b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+
+Luke WrightGarry White</value>
+      <webElementGuid>1617348c-7d4f-4259-bb68-cad71044f8c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;workShift_assignedEmp&quot;)</value>
+      <webElementGuid>b68b6252-d3aa-4714-8b51-07a40291933d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='workShift_assignedEmp']</value>
+      <webElementGuid>2dc62bea-02a9-40cb-b4d8-a2e8636c5e7c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='frmWorkShift']/fieldset/ol/table/tbody/tr[2]/td[3]/select</value>
+      <webElementGuid>9df03dbd-3f1a-475c-8029-67d56573aae4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Assigned Employees'])[1]/following::select[2]</value>
+      <webElementGuid>55047ab0-4c9e-4689-9c31-ae75b480cf74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Available Employees'])[1]/following::select[2]</value>
+      <webElementGuid>e53854eb-05ca-4824-ad58-5fe5559a806d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[3]/preceding::select[1]</value>
+      <webElementGuid>2c86c5f9-e5c4-47ef-bd51-ffdb75365a79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[3]/select</value>
+      <webElementGuid>2cba5ab1-f3fb-4fd1-9438-16f6d8d9a1cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'workShift[assignedEmp][]' and @id = 'workShift_assignedEmp' and (text() = '
+
+Luke WrightGarry White' or . = '
+
+Luke WrightGarry White')]</value>
+      <webElementGuid>3b575e9a-bf75-458f-ba3e-8551fb4b5e22</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

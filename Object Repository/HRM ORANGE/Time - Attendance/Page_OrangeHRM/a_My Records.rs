@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_My Records</name>
+   <tag></tag>
+   <elementGuidId>63fc1298-f365-4fda-a75a-2124e79605d6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#menu_attendance_viewMyAttendanceRecord</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='menu_attendance_viewMyAttendanceRecord']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>0b467e36-156d-4156-a448-0b182069f733</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/index.php/attendance/viewMyAttendanceRecord</value>
+      <webElementGuid>26709ae6-1986-40be-8550-32a8cf4e89a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>menu_attendance_viewMyAttendanceRecord</value>
+      <webElementGuid>e7cbafa7-85d8-468e-baf0-55206a537743</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>My Records</value>
+      <webElementGuid>0363cc5b-1bd2-413f-aea4-aa670b661445</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu_attendance_viewMyAttendanceRecord&quot;)</value>
+      <webElementGuid>d159efe6-2b20-413e-bef1-ddab4b1bdbaa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='menu_attendance_viewMyAttendanceRecord']</value>
+      <webElementGuid>f70f8ac2-9998-448d-b7f0-f0d6a197b40a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='mainMenuFirstLevelUnorderedList']/li[4]/ul/li[2]/ul/li/a</value>
+      <webElementGuid>6e123509-4f82-4c5c-874e-3ccb532cc730</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'My Records')]</value>
+      <webElementGuid>7bceaa02-e3a7-42aa-bd87-a1549282e38c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Employee Timesheets'])[1]/following::a[2]</value>
+      <webElementGuid>8d465b1d-01ba-413a-901e-9bfb28b8995c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Timesheets'])[1]/following::a[3]</value>
+      <webElementGuid>a2f519a4-f14b-423f-91d3-fe4030261541</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Punch In/Out'])[1]/preceding::a[1]</value>
+      <webElementGuid>3a9bb9cc-9cd3-43e7-8cbb-844e110f0b52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Employee Records'])[1]/preceding::a[2]</value>
+      <webElementGuid>71ff9a15-077c-4289-9d91-12db4fab23b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='My Records']/parent::*</value>
+      <webElementGuid>29555dee-ec57-46bb-bd51-7b7d5aaf3450</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/index.php/attendance/viewMyAttendanceRecord')]</value>
+      <webElementGuid>a1ed5a03-5a97-4c51-bbe3-b019c84f45fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/ul/li[2]/ul/li/a</value>
+      <webElementGuid>24fda921-d1e4-4579-afc7-9be5c3d09e04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/index.php/attendance/viewMyAttendanceRecord' and @id = 'menu_attendance_viewMyAttendanceRecord' and (text() = 'My Records' or . = 'My Records')]</value>
+      <webElementGuid>cd8d43c0-417d-478b-90e7-068a017b7fe3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

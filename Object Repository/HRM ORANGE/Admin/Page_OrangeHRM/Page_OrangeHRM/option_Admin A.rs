@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>option_Admin A</name>
+   <tag></tag>
+   <elementGuidId>fb8c65c2-9855-4856-b9de-ae73d4b2199f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//option[@value='54']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>option[value=&quot;54&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>6a62b5d6-569a-4503-8575-b6997d17cf04</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>54</value>
+      <webElementGuid>8689a012-2686-4793-9182-af2abb4043ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Admin A</value>
+      <webElementGuid>fe361e13-8273-4c2e-b84d-bbfa8ee76fe0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;workShift_availableEmp&quot;)/option[63]</value>
+      <webElementGuid>d14ac462-fab1-4bf2-9f91-f5803148ebd8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//option[@value='54']</value>
+      <webElementGuid>ed88f9b6-0b07-40f4-a631-82de8ee7b377</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//select[@id='workShift_availableEmp']/option[63]</value>
+      <webElementGuid>0bcd1d65-b030-4e82-99aa-a90e32f9cfba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Assigned Employees'])[1]/following::option[63]</value>
+      <webElementGuid>ffeec124-3ca2-4efa-b705-cc8cfc3763e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Available Employees'])[1]/following::option[63]</value>
+      <webElementGuid>74f17f6b-07a3-4d39-a377-573fd37a7bed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[3]/preceding::option[1]</value>
+      <webElementGuid>5c1e395f-be73-4f0e-8483-d0ecfba08e36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/select/option[63]</value>
+      <webElementGuid>e50f3ad7-c39e-4899-9de0-f728d13db837</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//option[(text() = 'Admin A' or . = 'Admin A')]</value>
+      <webElementGuid>b31138c7-0a4d-4c7e-a908-c38837586f48</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

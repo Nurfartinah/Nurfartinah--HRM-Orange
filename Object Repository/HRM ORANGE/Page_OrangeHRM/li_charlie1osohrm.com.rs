@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_charlie1osohrm.com</name>
+   <tag></tag>
+   <elementGuidId>bdf9435c-825f-458f-95c8-eef5cd9b757d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='resultTable']/tbody/tr[10]/td[2]/ul/li[5]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>1fca27e7-34af-4011-9f2a-2f906770fae1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                    charlie1@osohrm.com                                </value>
+      <webElementGuid>ff04cf4b-8cd6-4bfe-b715-497b6580df50</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;resultTable&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[2]/ul[1]/li[5]</value>
+      <webElementGuid>56f14b89-0634-45e7-8002-5c534ea0720c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='resultTable']/tbody/tr[10]/td[2]/ul/li[5]</value>
+      <webElementGuid>dc02a7b1-ca4c-45c5-bccb-cb48262becc1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New York Sales Office'])[2]/following::li[1]</value>
+      <webElementGuid>4271e9df-1af2-4124-8601-6b848ee37e9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quality Assurance'])[1]/following::li[2]</value>
+      <webElementGuid>14b8a09d-0fcf-4de6-8058-2c83c7ae6959</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dominic Chase'])[1]/preceding::li[1]</value>
+      <webElementGuid>38f1c138-16c6-4763-88c4-871893a95580</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='VP - Client Services'])[2]/preceding::li[2]</value>
+      <webElementGuid>105cd570-bf27-423f-b7e2-719cb17a750f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='charlie1@osohrm.com']/parent::*</value>
+      <webElementGuid>239c5cf3-f74a-4536-b514-ad9e663ffbfe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[10]/td[2]/ul/li[5]</value>
+      <webElementGuid>43419f23-8557-4f9e-9db5-4b0c94c8ea2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = '
+                                    charlie1@osohrm.com                                ' or . = '
+                                    charlie1@osohrm.com                                ')]</value>
+      <webElementGuid>f8fb475f-9e59-4798-8722-cc9cb24a71bc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

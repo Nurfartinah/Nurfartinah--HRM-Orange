@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_My Timesheets</name>
+   <tag></tag>
+   <elementGuidId>1269ea95-a278-466f-b195-151b638717a5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#menu_time_viewMyTimesheet</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='menu_time_viewMyTimesheet']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>7c1f3330-306b-41c6-ab51-c025b8538444</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/index.php/time/viewMyTimesheet</value>
+      <webElementGuid>f7916c7e-3cd2-4ca3-b696-59d7f139bfc2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>menu_time_viewMyTimesheet</value>
+      <webElementGuid>b99580be-32f1-42ca-b314-710fd38463fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>My Timesheets</value>
+      <webElementGuid>b015bbc4-111f-4d17-bd0e-c9326bdaaf14</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu_time_viewMyTimesheet&quot;)</value>
+      <webElementGuid>6a52c4ef-c2f2-44e0-9280-f54746651c65</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='menu_time_viewMyTimesheet']</value>
+      <webElementGuid>f67c4469-0333-4589-b3c3-6907d289e92f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='mainMenuFirstLevelUnorderedList']/li[2]/ul/li/ul/li/a</value>
+      <webElementGuid>cf28bdd7-a907-4246-8109-2873dac9d5ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'My Timesheets')]</value>
+      <webElementGuid>398a1cf9-f625-424b-b15d-4c585f2ae198</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Time'])[1]/following::a[2]</value>
+      <webElementGuid>e7537dea-bf25-455a-8c08-1bffafaae62b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Leave Entitlements and Usage Report'])[1]/following::a[3]</value>
+      <webElementGuid>d5291c44-d283-43ae-abaf-fb361402b7c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Records'])[1]/preceding::a[2]</value>
+      <webElementGuid>7757dd98-94bc-4a9d-a430-196a860d2649</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Punch In/Out'])[1]/preceding::a[3]</value>
+      <webElementGuid>696873ab-22b1-4d0d-b081-c5d29c48b10b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='My Timesheets']/parent::*</value>
+      <webElementGuid>219720ff-71d1-4384-8936-984a41ff9814</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/index.php/time/viewMyTimesheet')]</value>
+      <webElementGuid>73d7c36d-b7b3-486f-83cb-77271f8b9714</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/ul/li/ul/li/a</value>
+      <webElementGuid>31c8d210-8f2b-4ef3-b608-ce58dca55e15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/index.php/time/viewMyTimesheet' and @id = 'menu_time_viewMyTimesheet' and (text() = 'My Timesheets' or . = 'My Timesheets')]</value>
+      <webElementGuid>b4c2bbe6-b83d-4b0b-9d76-94ba77dc803c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

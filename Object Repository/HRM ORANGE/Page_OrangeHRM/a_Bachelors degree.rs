@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Bachelors degree</name>
+   <tag></tag>
+   <elementGuidId>74a5006d-f3cc-4865-b154-b8ce69c881f3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.edit</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='tblEducation']/table/tbody/tr/td[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>fd35a0e1-05d1-48bd-9ca6-ec1d22091ff4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>96047001-6bda-4ff2-b04e-a3548cac6e37</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>edit</value>
+      <webElementGuid>eeeedea8-83d9-41ba-abf0-765c04ea3a75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Bachelors degree</value>
+      <webElementGuid>818e6793-98f8-4b06-b7a5-9c1aa6d90ada</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tblEducation&quot;)/table[@class=&quot;table tablesorter&quot;]/tbody[1]/tr[@class=&quot;odd&quot;]/td[@class=&quot;program&quot;]/a[@class=&quot;edit&quot;]</value>
+      <webElementGuid>4b8f943d-db12-43cf-a3d8-8c8a8df09eeb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tblEducation']/table/tbody/tr/td[2]/a</value>
+      <webElementGuid>b436e7e8-ec1d-448c-96b1-464ef006a983</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Bachelors degree')]</value>
+      <webElementGuid>56038c8e-23c6-430f-986f-bdd8227c1411</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='GPA/Score'])[2]/following::a[1]</value>
+      <webElementGuid>95bd8f74-3423-478c-9b1b-5a7998d0c350</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Year'])[2]/following::a[1]</value>
+      <webElementGuid>ce65f4eb-8dc9-43aa-822c-cb85de18e9fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Skill'])[1]/preceding::a[2]</value>
+      <webElementGuid>4d182c0c-6614-49e2-ac95-d9ea20c65c76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[9]</value>
+      <webElementGuid>83c6c31f-259c-4ecd-9709-1d62006bcb4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/a</value>
+      <webElementGuid>ed909c1b-d6b4-4106-bfb6-de2eb359063a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#' and (text() = 'Bachelors degree' or . = 'Bachelors degree')]</value>
+      <webElementGuid>3661577f-5da6-4672-85c0-639240cec448</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

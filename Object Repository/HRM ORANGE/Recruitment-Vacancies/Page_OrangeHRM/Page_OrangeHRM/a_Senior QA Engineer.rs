@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Senior QA Engineer</name>
+   <tag></tag>
+   <elementGuidId>e582fb9d-bf0d-43c7-91c4-33984d0c5543</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='resultTable']/tbody/tr[8]/td[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>8e7f3629-063e-4927-8cf2-99ec8d370269</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>addJobVacancy?Id=11</value>
+      <webElementGuid>697cce29-4a67-4f50-904e-13ca896b60a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Senior QA Engineer</value>
+      <webElementGuid>2a2c34b2-51f7-45d1-9592-347ca1c9998a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;resultTable&quot;)/tbody[1]/tr[@class=&quot;even&quot;]/td[@class=&quot;left&quot;]/a[1]</value>
+      <webElementGuid>e0f605a8-6645-4c88-9e63-73b66bf5e136</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='resultTable']/tbody/tr[8]/td[2]/a</value>
+      <webElementGuid>262790e8-9115-49e9-880d-c12d8557bc51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Senior QA Engineer')]</value>
+      <webElementGuid>f74aa9cc-0436-4a4d-829b-abfeba20eabe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Active'])[8]/following::a[1]</value>
+      <webElementGuid>73d77d4f-2a6d-40a4-819f-af8f087b5600</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Linda Jane Anderson'])[2]/following::a[1]</value>
+      <webElementGuid>f574a8cc-5aac-4d08-b9d8-2963a2989da3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='QA Engineer'])[2]/preceding::a[1]</value>
+      <webElementGuid>309bc509-3498-406f-b37e-8d4fa0164927</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Orange Test'])[2]/preceding::a[1]</value>
+      <webElementGuid>1e819bf1-acb3-4692-861d-17f0c9d22f72</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'addJobVacancy?Id=11')]</value>
+      <webElementGuid>87d31b54-c36a-4371-8941-9fdec1081f17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[8]/td[2]/a</value>
+      <webElementGuid>579a4602-ed0a-4a0a-af8a-a0239b8fcf9d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'addJobVacancy?Id=11' and (text() = 'Senior QA Engineer' or . = 'Senior QA Engineer')]</value>
+      <webElementGuid>b8449b24-7132-424b-9a01-062dda2ac0e3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

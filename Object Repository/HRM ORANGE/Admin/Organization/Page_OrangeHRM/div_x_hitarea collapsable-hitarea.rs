@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_x_hitarea collapsable-hitarea</name>
+   <tag></tag>
+   <elementGuidId>1a0144db-c4d8-436d-a77d-b3926e7373f9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.hitarea.collapsable-hitarea</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='node_3']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1f4eaed0-9d35-4abc-9205-fd1051803786</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>hitarea collapsable-hitarea</value>
+      <webElementGuid>bb8477b6-721f-491e-a532-b42409482456</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;node_3&quot;)/div[@class=&quot;hitarea collapsable-hitarea&quot;]</value>
+      <webElementGuid>50d4f913-06af-4853-ab1b-e4d989e31e30</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='node_3']/div</value>
+      <webElementGuid>8ee5ffb5-a214-463b-ac5e-dc47439a5927</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/div</value>
+      <webElementGuid>f4060488-999e-4f72-97fe-5cb753443d2b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

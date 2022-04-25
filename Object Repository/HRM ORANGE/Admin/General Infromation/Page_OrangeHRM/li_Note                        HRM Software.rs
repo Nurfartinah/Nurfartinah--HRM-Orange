@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Note                        HRM Software</name>
+   <tag></tag>
+   <elementGuidId>0ef0fd06-072f-4435-927d-86884ac3ee9f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='frmGenInfo']/fieldset/ol[3]/li[7]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.largeTextBox</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>c78146c8-98de-4c38-a62c-99c9886b7d5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>largeTextBox</value>
+      <webElementGuid>d07bd2ce-8cbe-4554-a2d6-f9ec8b02f363</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                        Note                        HRM Software                    </value>
+      <webElementGuid>c1d6c730-058e-44f3-b467-5730314f0c09</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;frmGenInfo&quot;)/fieldset[1]/ol[3]/li[@class=&quot;largeTextBox&quot;]</value>
+      <webElementGuid>95058ed6-ac89-4f58-8ad7-40067e9b2369</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='frmGenInfo']/fieldset/ol[3]/li[7]</value>
+      <webElementGuid>9dabefd7-c3c9-4659-afc3-67d473d08df8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Country'])[1]/following::li[1]</value>
+      <webElementGuid>a600e357-57ed-4689-92c1-6c7b55bb423d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Zip/Postal Code'])[1]/following::li[2]</value>
+      <webElementGuid>bf6a7fc3-285e-4b05-8eb4-c030e7094e3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ol[3]/li[7]</value>
+      <webElementGuid>063b3e88-19e8-453a-961e-8ff3084089db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = '
+                        Note                        HRM Software                    ' or . = '
+                        Note                        HRM Software                    ')]</value>
+      <webElementGuid>02b95342-8152-4a58-8735-a9b584f4cc2b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

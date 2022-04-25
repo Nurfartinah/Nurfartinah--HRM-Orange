@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_My Entitlements</name>
+   <tag></tag>
+   <elementGuidId>6dd3bc26-e551-449e-92a5-03fa54c52eb6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#menu_leave_viewMyLeaveEntitlements</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='menu_leave_viewMyLeaveEntitlements']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>a55dcf6f-eabb-49bf-a3f2-88997b5d16e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/index.php/leave/viewMyLeaveEntitlements/reset/1</value>
+      <webElementGuid>878c3307-c7d0-4238-a8d8-1df8029476c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>menu_leave_viewMyLeaveEntitlements</value>
+      <webElementGuid>07d38491-9b3f-4277-a311-93ebe2b28347</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>My Entitlements</value>
+      <webElementGuid>ea658db9-8ac0-4edf-aa25-45e20cfce222</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu_leave_viewMyLeaveEntitlements&quot;)</value>
+      <webElementGuid>59822004-6395-41f5-944b-54beff09e0ef</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='menu_leave_viewMyLeaveEntitlements']</value>
+      <webElementGuid>aaaf913a-d113-4e97-a6ab-b0f848655c04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='mainMenuFirstLevelUnorderedList']/li/ul/li[3]/ul/li/a</value>
+      <webElementGuid>70895d69-7710-4554-850a-d6c99c04b190</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'My Entitlements')]</value>
+      <webElementGuid>57d97e7d-1cd0-4798-a329-bc59afb21b10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Leave'])[1]/following::a[2]</value>
+      <webElementGuid>0f371e54-f8ef-45bf-a656-9326f3713d47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apply'])[1]/following::a[3]</value>
+      <webElementGuid>56ffcc80-0457-4de5-b76f-7a9108c613a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Leave Entitlements and Usage Report'])[1]/preceding::a[2]</value>
+      <webElementGuid>eb5e0ebd-acfd-4a75-88c8-f04d1fe33c27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Time'])[1]/preceding::a[3]</value>
+      <webElementGuid>df617d6c-ff6b-4e8f-8c62-a54b4e6fb368</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='My Entitlements']/parent::*</value>
+      <webElementGuid>2df0198f-8088-4a29-b1d2-754ad68fa28f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/index.php/leave/viewMyLeaveEntitlements/reset/1')]</value>
+      <webElementGuid>086bfd9c-b849-4e6f-9212-0dd86f03fa98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/ul/li/a</value>
+      <webElementGuid>ecdfcca4-f402-49c0-ab66-2522838a3a2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/index.php/leave/viewMyLeaveEntitlements/reset/1' and @id = 'menu_leave_viewMyLeaveEntitlements' and (text() = 'My Entitlements' or . = 'My Entitlements')]</value>
+      <webElementGuid>cafb0fec-3836-423d-9d7e-0c8fa3e08f56</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

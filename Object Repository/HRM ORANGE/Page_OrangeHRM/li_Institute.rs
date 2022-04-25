@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Institute</name>
+   <tag></tag>
+   <elementGuidId>5ae88937-bbf0-4644-b146-a3ecc1baa413</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='frmEducation']/fieldset/ol/li[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>414bd585-5471-41c6-af23-9db59c69bf81</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                        Institute                                            </value>
+      <webElementGuid>2afc32bd-7c03-443e-8aa7-8c1cf7d1328f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;frmEducation&quot;)/fieldset[1]/ol[1]/li[2]</value>
+      <webElementGuid>9b755f40-c59f-4eb3-bbaf-9ac20c2b4c99</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='frmEducation']/fieldset/ol/li[2]</value>
+      <webElementGuid>cb371af7-55fd-4663-8bdb-b6e6f2ec239e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bachelors degree'])[2]/following::li[1]</value>
+      <webElementGuid>aeda3fd1-5a51-4881-ab39-0adced6ff3ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[4]/following::li[1]</value>
+      <webElementGuid>beed9e2f-67d5-410e-87e6-9d33f0351e4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Major/Specialization'])[1]/preceding::li[1]</value>
+      <webElementGuid>2ffebfc9-886f-413c-80dd-c4ec32e99aef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/form/fieldset/ol/li[2]</value>
+      <webElementGuid>acee9204-76ec-417b-ae7c-be5223c380f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = '
+                        Institute                                            ' or . = '
+                        Institute                                            ')]</value>
+      <webElementGuid>7e866498-466c-46fb-8534-59cc4bbc0522</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_City</name>
+   <tag></tag>
+   <elementGuidId>10550b76-8675-4c87-9dd8-04e387a993e7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='frmGenInfo']/fieldset/ol[3]/li[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>aa320041-11b7-4d25-8c14-ca18d49dbede</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                        City                                            </value>
+      <webElementGuid>4446d9b8-6ebe-42f3-a68f-287b22a7a51b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;frmGenInfo&quot;)/fieldset[1]/ol[3]/li[3]</value>
+      <webElementGuid>ddb76602-bbc8-4673-ae99-e1286067a689</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='frmGenInfo']/fieldset/ol[3]/li[3]</value>
+      <webElementGuid>e8079f4c-0648-4101-8c09-6cd6a3256086</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Address Street 2'])[1]/following::li[1]</value>
+      <webElementGuid>cf5793ce-f145-4c3a-95ac-e2f7c2eeb492</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Address Street 1'])[1]/following::li[2]</value>
+      <webElementGuid>8f784f3b-8cf7-40f7-ab8c-c90ad3d05ea7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='State/Province'])[1]/preceding::li[1]</value>
+      <webElementGuid>b59a828d-ecd1-4530-b207-4c07ce034690</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ol[3]/li[3]</value>
+      <webElementGuid>6ee5c946-cde5-4f0d-83a7-6a29e4ac6ce8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = '
+                        City                                            ' or . = '
+                        City                                            ')]</value>
+      <webElementGuid>0700499a-cbd1-4255-9c14-5d76bc72f0ac</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

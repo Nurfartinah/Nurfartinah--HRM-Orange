@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>non numeric fax number</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b4eb61b6-d28e-4829-9aea-ab98ec14e18b</testCaseGuid>
+</TestCaseEntity>

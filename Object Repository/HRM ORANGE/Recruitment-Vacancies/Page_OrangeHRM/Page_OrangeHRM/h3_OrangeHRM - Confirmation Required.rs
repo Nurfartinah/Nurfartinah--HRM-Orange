@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_OrangeHRM - Confirmation Required</name>
+   <tag></tag>
+   <elementGuidId>c2b918a7-5145-4cdc-97e1-c81276ad75b4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='deleteConfirmation']/div/h3</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#deleteConfirmation > div.modal-header > h3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>89b308e3-19b9-4e6a-8f37-1ac86086960c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>OrangeHRM - Confirmation Required</value>
+      <webElementGuid>9a3d49fa-8bb1-4ae4-9b5b-a8009f514cb4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;deleteConfirmation&quot;)/div[@class=&quot;modal-header&quot;]/h3[1]</value>
+      <webElementGuid>d113d455-7368-49fa-802e-3c21f49cf37d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='deleteConfirmation']/div/h3</value>
+      <webElementGuid>e2f4ab54-6e40-43e0-96f7-4283d0b62241</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[3]/following::h3[1]</value>
+      <webElementGuid>35b1dac4-6535-473d-8d0a-e988591d39c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Active'])[12]/following::h3[1]</value>
+      <webElementGuid>9f4962d6-6ea1-4ffd-a793-799e25e85fbf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OrangeHRM, Inc'])[1]/preceding::h3[1]</value>
+      <webElementGuid>8479dbea-0efd-48fe-9853-744549d19a3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='OrangeHRM - Confirmation Required']/parent::*</value>
+      <webElementGuid>cc07fe22-1180-47aa-9145-acf5e989b542</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/h3</value>
+      <webElementGuid>80d4a311-4292-4d5d-8b75-63fcb0315aec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'OrangeHRM - Confirmation Required' or . = 'OrangeHRM - Confirmation Required')]</value>
+      <webElementGuid>1cbff19c-5ca4-4100-93a5-062809fc3ca1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

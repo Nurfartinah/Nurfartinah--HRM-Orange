@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>option_xyz abc</name>
+   <tag></tag>
+   <elementGuidId>e4358f4e-0537-4c44-a400-0da17838da02</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//option[@value='64']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>option[value=&quot;64&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>3c6216c1-e236-4df4-8162-9a7a49b8f69e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>64</value>
+      <webElementGuid>2999fd04-2ac7-465e-b6cd-4d3f3f8aa285</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>xyz abc</value>
+      <webElementGuid>30fc76e5-93b8-4422-80c1-0f7ee54bd809</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;workShift_availableEmp&quot;)/option[62]</value>
+      <webElementGuid>12394c5a-0dac-4e7e-b14f-e0de9a57dc9b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//option[@value='64']</value>
+      <webElementGuid>3be70abf-3ebe-41ce-b58e-b9e25a4ab744</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//select[@id='workShift_availableEmp']/option[62]</value>
+      <webElementGuid>dfbb4638-7bf5-4f81-baec-8dabd96c5835</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Assigned Employees'])[1]/following::option[62]</value>
+      <webElementGuid>385c04f8-e4e2-43c0-a8cc-7c926791b101</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Available Employees'])[1]/following::option[62]</value>
+      <webElementGuid>5b60185a-e865-49f8-8485-92661f1ff234</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[3]/preceding::option[2]</value>
+      <webElementGuid>b452d90d-2eef-4aad-a034-7bca055a814c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='xyz abc']/parent::*</value>
+      <webElementGuid>6d4561cb-836a-4512-8c7f-4dc215c7deb6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/select/option[62]</value>
+      <webElementGuid>b0ac191c-8a68-4f37-a563-a55079c84e2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//option[(text() = 'xyz abc' or . = 'xyz abc')]</value>
+      <webElementGuid>250038af-d172-40e3-8095-9a222a8e902f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

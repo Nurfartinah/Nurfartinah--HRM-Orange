@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_000000150030004501000115013001450200_bef9c6</name>
+   <tag></tag>
+   <elementGuidId>b83d04bd-2674-4ebe-96d5-1239791fb5c5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='workShift_workHours_from']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#workShift_workHours_from</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>b60d2629-a26c-4437-93c9-73708c41e6c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>workShift_workHours_from</value>
+      <webElementGuid>ba197340-bbd5-4e88-b533-bb78423c1a10</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>timepicker valid</value>
+      <webElementGuid>a54d98e3-2653-4e67-9a49-c5485667942f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>workShift[workHours][from]</value>
+      <webElementGuid>e6843a51-e536-473e-8cf2-b6f3b0e518a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+
+00:00
+00:15
+00:30
+00:45
+01:00
+01:15
+01:30
+01:45
+02:00
+02:15
+02:30
+02:45
+03:00
+03:15
+03:30
+03:45
+04:00
+04:15
+04:30
+04:45
+05:00
+05:15
+05:30
+05:45
+06:00
+06:15
+06:30
+06:45
+07:00
+07:15
+07:30
+07:45
+08:00
+08:15
+08:30
+08:45
+09:00
+09:15
+09:30
+09:45
+10:00
+10:15
+10:30
+10:45
+11:00
+11:15
+11:30
+11:45
+12:00
+12:15
+12:30
+12:45
+13:00
+13:15
+13:30
+13:45
+14:00
+14:15
+14:30
+14:45
+15:00
+15:15
+15:30
+15:45
+16:00
+16:15
+16:30
+16:45
+17:00
+17:15
+17:30
+17:45
+18:00
+18:15
+18:30
+18:45
+19:00
+19:15
+19:30
+19:45
+20:00
+20:15
+20:30
+20:45
+21:00
+21:15
+21:30
+21:45
+22:00
+22:15
+22:30
+22:45
+23:00
+23:15
+23:30
+23:45
+</value>
+      <webElementGuid>924c801c-06d8-4df2-8a15-04734a70f44b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;workShift_workHours_from&quot;)</value>
+      <webElementGuid>d5a8cf09-fce8-4d10-bb97-35ee120436e9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='workShift_workHours_from']</value>
+      <webElementGuid>af248657-9511-4f0c-9ce6-39af9b523920</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='frmWorkShift']/fieldset/ol/li[2]/select</value>
+      <webElementGuid>13286e55-d002-4fae-ad9c-12a852103c76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='From'])[1]/following::select[1]</value>
+      <webElementGuid>a7dcdc97-dd48-4329-a899-034f2ad5e255</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/following::select[1]</value>
+      <webElementGuid>70c51c06-3a2e-4263-8f23-311332788191</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='To'])[1]/preceding::select[1]</value>
+      <webElementGuid>1681cb01-3fec-4ce0-b6d2-c683e28adbda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Duration'])[1]/preceding::select[2]</value>
+      <webElementGuid>c3087101-2e6e-4e3f-8ac9-ab747940d8da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>b3c588ad-da2a-4817-afb0-91de0a353ff5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'workShift_workHours_from' and @name = 'workShift[workHours][from]' and (text() = '
+
+00:00
+00:15
+00:30
+00:45
+01:00
+01:15
+01:30
+01:45
+02:00
+02:15
+02:30
+02:45
+03:00
+03:15
+03:30
+03:45
+04:00
+04:15
+04:30
+04:45
+05:00
+05:15
+05:30
+05:45
+06:00
+06:15
+06:30
+06:45
+07:00
+07:15
+07:30
+07:45
+08:00
+08:15
+08:30
+08:45
+09:00
+09:15
+09:30
+09:45
+10:00
+10:15
+10:30
+10:45
+11:00
+11:15
+11:30
+11:45
+12:00
+12:15
+12:30
+12:45
+13:00
+13:15
+13:30
+13:45
+14:00
+14:15
+14:30
+14:45
+15:00
+15:15
+15:30
+15:45
+16:00
+16:15
+16:30
+16:45
+17:00
+17:15
+17:30
+17:45
+18:00
+18:15
+18:30
+18:45
+19:00
+19:15
+19:30
+19:45
+20:00
+20:15
+20:30
+20:45
+21:00
+21:15
+21:30
+21:45
+22:00
+22:15
+22:30
+22:45
+23:00
+23:15
+23:30
+23:45
+' or . = '
+
+00:00
+00:15
+00:30
+00:45
+01:00
+01:15
+01:30
+01:45
+02:00
+02:15
+02:30
+02:45
+03:00
+03:15
+03:30
+03:45
+04:00
+04:15
+04:30
+04:45
+05:00
+05:15
+05:30
+05:45
+06:00
+06:15
+06:30
+06:45
+07:00
+07:15
+07:30
+07:45
+08:00
+08:15
+08:30
+08:45
+09:00
+09:15
+09:30
+09:45
+10:00
+10:15
+10:30
+10:45
+11:00
+11:15
+11:30
+11:45
+12:00
+12:15
+12:30
+12:45
+13:00
+13:15
+13:30
+13:45
+14:00
+14:15
+14:30
+14:45
+15:00
+15:15
+15:30
+15:45
+16:00
+16:15
+16:30
+16:45
+17:00
+17:15
+17:30
+17:45
+18:00
+18:15
+18:30
+18:45
+19:00
+19:15
+19:30
+19:45
+20:00
+20:15
+20:30
+20:45
+21:00
+21:15
+21:30
+21:45
+22:00
+22:15
+22:30
+22:45
+23:00
+23:15
+23:30
+23:45
+')]</value>
+      <webElementGuid>279ca76f-a7f2-4d57-b3aa-ad8520eeff03</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

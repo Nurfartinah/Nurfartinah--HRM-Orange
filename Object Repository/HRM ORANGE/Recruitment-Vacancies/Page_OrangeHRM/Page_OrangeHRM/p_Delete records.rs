@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Delete records</name>
+   <tag></tag>
+   <elementGuidId>59e11fef-fddc-431c-9dd8-60fe92a31647</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='deleteConfirmation']/div[2]/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#deleteConfirmation > div.modal-body > p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>45958c3c-1f94-4b95-9986-8e89c093ccf7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Delete records?</value>
+      <webElementGuid>8a18986f-6567-4333-8c06-d0e5f6ba5298</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;deleteConfirmation&quot;)/div[@class=&quot;modal-body&quot;]/p[1]</value>
+      <webElementGuid>1201a2d5-1f17-451f-b97a-a85047c40488</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='deleteConfirmation']/div[2]/p</value>
+      <webElementGuid>15f67f4d-6dfb-432c-9aea-62dac44d4a2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OrangeHRM - Confirmation Required'])[1]/following::p[1]</value>
+      <webElementGuid>bea9f754-b772-4065-a45c-6d7f036ee386</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[3]/following::p[1]</value>
+      <webElementGuid>3ef65be9-d64c-4ce8-9109-a28dd5787cfc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OrangeHRM, Inc'])[1]/preceding::p[1]</value>
+      <webElementGuid>c8a6ebbb-d61c-463b-b24a-353299c05679</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Delete records?']/parent::*</value>
+      <webElementGuid>2d416127-3c51-46f8-a8fe-c7ebd61d391b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/p</value>
+      <webElementGuid>8b1d7fb6-fc08-41b5-9528-31a6f090f731</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Delete records?' or . = 'Delete records?')]</value>
+      <webElementGuid>a5bf028d-e8c5-44ca-bf11-8df3570399d5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

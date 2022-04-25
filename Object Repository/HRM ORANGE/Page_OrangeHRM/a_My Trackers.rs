@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_My Trackers</name>
+   <tag></tag>
+   <elementGuidId>390a391e-4bba-413f-bc50-1eea2c952739</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#menu_performance_viewMyPerformanceTrackerList</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='menu_performance_viewMyPerformanceTrackerList']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>5de325f2-bf55-4a99-b192-6df7da740242</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/index.php/performance/viewMyPerformanceTrackerList</value>
+      <webElementGuid>149efa07-a722-4e25-93ed-c4045f3a35b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>menu_performance_viewMyPerformanceTrackerList</value>
+      <webElementGuid>d4f06f58-bda0-43a1-bafd-8354b0532d2e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>My Trackers</value>
+      <webElementGuid>c0fc0276-4a8d-45a9-8a68-496899fa9495</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu_performance_viewMyPerformanceTrackerList&quot;)</value>
+      <webElementGuid>46e07f37-d792-4a9d-a0c2-b5e1e449fda2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='menu_performance_viewMyPerformanceTrackerList']</value>
+      <webElementGuid>cf9c71a5-3263-49c0-8cf5-7e2b94fabaf0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='mainMenuFirstLevelUnorderedList']/li[4]/ul/li[2]/a</value>
+      <webElementGuid>8dc1878f-b047-4ff2-8ee6-ab9758f8d4b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'My Trackers')]</value>
+      <webElementGuid>888c2274-6eaf-4d3d-9b60-f7900e66c4e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Review List'])[1]/following::a[1]</value>
+      <webElementGuid>dd7d2d4d-549a-412a-b5a8-8e4ee82fd426</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Reviews'])[1]/following::a[2]</value>
+      <webElementGuid>7fdd6b37-35ff-40ee-b458-375201635aba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Employee Trackers'])[1]/preceding::a[1]</value>
+      <webElementGuid>353965c1-76b9-4e0f-ab94-84c0a0a0988d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[1]/preceding::a[2]</value>
+      <webElementGuid>cbbfa15a-a344-4de0-aff7-f0a095a4c51e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='My Trackers']/parent::*</value>
+      <webElementGuid>d435e8f1-5ef4-4aa7-bb15-dc2cc01b394f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/index.php/performance/viewMyPerformanceTrackerList')]</value>
+      <webElementGuid>999c8565-7257-4989-8aef-8c84ef5f17dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/ul/li[2]/a</value>
+      <webElementGuid>1a1d8c1a-15f6-4123-8b4e-975420e9cc28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/index.php/performance/viewMyPerformanceTrackerList' and @id = 'menu_performance_viewMyPerformanceTrackerList' and (text() = 'My Trackers' or . = 'My Trackers')]</value>
+      <webElementGuid>549a5b75-bb5d-489b-9635-361ad440b733</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

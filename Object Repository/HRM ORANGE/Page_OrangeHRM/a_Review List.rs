@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Review List</name>
+   <tag></tag>
+   <elementGuidId>b60dcffe-2b53-4d9f-a8a0-b51ece9e40c6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#menu_performance_searchEvaluatePerformancReview</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='menu_performance_searchEvaluatePerformancReview']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>3ea83bad-93a9-4893-8ee1-45d5c8871441</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/index.php/performance/searchEvaluatePerformancReview</value>
+      <webElementGuid>5fa37118-2128-42e0-84d6-8d5bb70fe298</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>menu_performance_searchEvaluatePerformancReview</value>
+      <webElementGuid>62ad9b1c-e0b5-4d3b-9bac-9c6c4fb576f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Review List</value>
+      <webElementGuid>e5ec9fd1-dcff-4972-aa78-59218365df75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu_performance_searchEvaluatePerformancReview&quot;)</value>
+      <webElementGuid>76500ecc-a80c-4da4-9ee5-1cde538d3c99</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='menu_performance_searchEvaluatePerformancReview']</value>
+      <webElementGuid>baa630ef-4b6d-455b-9ee5-ed3f0123d6d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='mainMenuFirstLevelUnorderedList']/li[4]/ul/li/ul/li[2]/a</value>
+      <webElementGuid>67237172-52d3-42d5-9d43-77f8e42b9451</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Review List')]</value>
+      <webElementGuid>0b202a3e-6799-4211-bd7d-bc5e0addfea1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Reviews'])[1]/following::a[1]</value>
+      <webElementGuid>5911b26b-199d-41ea-95b5-2619bbc5bb98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Performance'])[1]/following::a[3]</value>
+      <webElementGuid>7113fc66-ecb0-41f5-a80b-3c4a4704c841</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Trackers'])[1]/preceding::a[1]</value>
+      <webElementGuid>22f884d8-aab0-41fe-8f91-1584c326532d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Employee Trackers'])[1]/preceding::a[2]</value>
+      <webElementGuid>670db1ae-9034-4946-98af-44ea9134a9d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Review List']/parent::*</value>
+      <webElementGuid>f89ec358-f1fd-485b-823d-b1669abdeabb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/index.php/performance/searchEvaluatePerformancReview')]</value>
+      <webElementGuid>e179ffad-f83f-4eb9-9cf7-76df6b0bb3b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/ul/li/ul/li[2]/a</value>
+      <webElementGuid>a97e9f37-bada-4d31-a3f6-8e6fc29e99d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/index.php/performance/searchEvaluatePerformancReview' and @id = 'menu_performance_searchEvaluatePerformancReview' and (text() = 'Review List' or . = 'Review List')]</value>
+      <webElementGuid>474f893b-fd4d-4fec-ac37-99060c1bfbd9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

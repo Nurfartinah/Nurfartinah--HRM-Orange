@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_My Reviews</name>
+   <tag></tag>
+   <elementGuidId>c6b3ae64-4ff5-4462-aaf9-dd68838b6fc5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#menu_performance_myPerformanceReview</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='menu_performance_myPerformanceReview']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>d3f1ad07-66f0-4111-8a36-9b23684b7fc0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/index.php/performance/myPerformanceReview</value>
+      <webElementGuid>b993044f-b78c-48ef-aa50-665dcc5ce453</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>menu_performance_myPerformanceReview</value>
+      <webElementGuid>4d483765-7e2c-4709-84ab-711d08f2f864</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>My Reviews</value>
+      <webElementGuid>f1ca43c4-c4e0-4ace-88c5-b6021095ea04</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu_performance_myPerformanceReview&quot;)</value>
+      <webElementGuid>08438c8f-a768-444f-8c2f-a526e5445f65</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='menu_performance_myPerformanceReview']</value>
+      <webElementGuid>fb6597b1-5124-4e24-a992-32cbdef2ead4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='mainMenuFirstLevelUnorderedList']/li[4]/ul/li/ul/li/a</value>
+      <webElementGuid>a45f77fe-6234-456d-afc5-7eea4cfa8b5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'My Reviews')]</value>
+      <webElementGuid>9fbe861c-75d4-4822-947f-3d5dbe8cb7ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Performance'])[1]/following::a[2]</value>
+      <webElementGuid>766aab52-66b7-4f77-bc39-dd231d818335</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Info'])[1]/following::a[3]</value>
+      <webElementGuid>719514b6-906f-4745-803a-7b1d08df5a4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Review List'])[1]/preceding::a[1]</value>
+      <webElementGuid>0d18d470-650a-4583-b065-a16c7dc9b01d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Trackers'])[1]/preceding::a[2]</value>
+      <webElementGuid>3bbca112-9ee1-4de4-8a2a-f04457788965</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='My Reviews']/parent::*</value>
+      <webElementGuid>8bbddbd0-57ec-4d88-82bc-2161d43fec81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/index.php/performance/myPerformanceReview')]</value>
+      <webElementGuid>5b254fe4-328a-4e4f-87dd-b5bb60490bf1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/ul/li/ul/li/a</value>
+      <webElementGuid>eb4ba3a2-67ef-40fd-b223-1b3b47cb234f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/index.php/performance/myPerformanceReview' and @id = 'menu_performance_myPerformanceReview' and (text() = 'My Reviews' or . = 'My Reviews')]</value>
+      <webElementGuid>5ecad165-919c-46d4-a389-8bb368570b1d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
